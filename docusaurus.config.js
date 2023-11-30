@@ -62,7 +62,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      // Replace with your project's social card; ONDE AJUSTA A BARRA DE NAVEGAÇÃO
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'My Site',
@@ -79,13 +79,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/gabriellazanin/docusaurus',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
-      footer: {
+      footer: {  //o que está lá embaixo no final da página
         style: 'dark',
         links: [
           {
@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/gabriellamzanin/docusaurus',
               },
             ],
           },
