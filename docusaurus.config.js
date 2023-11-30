@@ -6,20 +6,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Test Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Site de Exemplo', //nome do trabalho
+  tagline: 'Fazer para aprender',  //slogan
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-ghpages/',
+  baseUrl: '/Docusaurus/', //nome do repositório 
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'masaleiro', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-ghpages', // Usually your repo name.
+  organizationName: 'gabriellazanin', // Usually your GitHub org/user name.
+  projectName: 'Docusaurus', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
@@ -29,8 +29,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt'],
   },
 
   presets: [
