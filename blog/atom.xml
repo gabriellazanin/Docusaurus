@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/Docusaurus/blog</id>
-    <title>Site de Exemplo Blog</title>
+    <title>Oficina Mecânica, Lda. Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/Docusaurus/blog"/>
-    <subtitle>Site de Exemplo Blog</subtitle>
+    <subtitle>Oficina Mecânica, Lda. Blog</subtitle>
     <icon>https://github.com/Docusaurus/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
