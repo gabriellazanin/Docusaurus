@@ -6,11 +6,11 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #56a3da;
+  --ifm-color-primary: #4086b8;
   --ifm-color-primary-dark: #49aed6;
   --ifm-color-primary-darker: #4776ab;
   --ifm-color-primary-darkest: #296c99;
-  --ifm-color-primary-light: #5895ce;
+  --ifm-color-primary-light: #366b9c;
   --ifm-color-primary-lighter: #60a7ea;
   --ifm-color-primary-lightest: #4babe3;
   --ifm-code-font-size: 95%;
