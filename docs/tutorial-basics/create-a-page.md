@@ -2,42 +2,14 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Serviços de Revisão 
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+A nossa oficina conta com uma equipe _especializada e apta_ para encontrar soluções de manutenção adaptadas às suas necessidades e às do seu carro. Contamos com duas opções diferentes, mas sempre com a mesma garantia: 
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+## Revisão Oficial 
 
-## Create your first React Page
+A AutoMaster oferece uma revisão conforme **as especificações do livro de manutenção do fabricante** e que **mantém a garantia** do mesmo em todas as marcas e modelos. (Recomendamos para veículos com até 7 anos, antes da IPO passar a ser anual)
 
-Create a file at `src/pages/my-react-page.js`:
+## Revisão Clássica 
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
-
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
-
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Esta opção é uma solução que respeita o seu companheiro de estrada de há varios anos. A _Revisão Clássica_ é **adaptada para cada veículo em todas as marcas e modelos, com custos ajustados à idade do mesmo**. (Recomendamos para veículos com mais de 7 anos)
