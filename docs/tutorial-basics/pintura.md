@@ -2,33 +2,21 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# Pinturas e Bate-chapas 
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Prezamos pela excelência do nosso trabalho e pelo cumprimento de prazos e orçamentos!
 
-## Create your first Post
+## Pintura
 
-Create a file at `blog/2021-02-28-greetings.md`:
+Pintura de carroçaria efectuada com componentes de qualidade e sempre em estufa. Temos _laboratório de cores de forma a pintar qualquer viatura a qualquer cor._
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+A AutoMaster destaca-se pela qualidade e preços competitivos. Equipada com tecnologia de ponta, realizamos reparos em veiculos para garantir um visual perfeito. Fazemos **afinação das cores com o gabarito do Detalhe Automóvel.** 
 
-Congratulations, you have made your first post!
+## Bate-chapas 
 
-Feel free to play around and edit this post as much you like.
-```
+### A AutoMaster devolve-lhe a **sensação de carro novo!** 
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+Prestamos um serviços de bate-chapas o qual nos arriscamos chamar de excepcional.  
+Na AutoMaster, preocupamo-nos com o **rigor do trabalho, com o preço final para o cliente e em manter o automóvel original**. Um técnico de bate chapas experiente pode fazer autênticos _milagres_, conhecendo os pontos de fraqueza e força das chapas de metal, conseguindo muitas vezes, com poucas marteladas, orientar o painel para a sua forma original.
+
+**_Faça já seu orçamento connosco!_**
