@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "Nossos Serviços",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "A nossa oficina oferece diversos serviços para atender as suas necessidades."
   }
 }
