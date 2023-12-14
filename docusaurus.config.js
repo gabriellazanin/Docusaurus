@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina Mecânica, Lda.', //nome do trabalho
   tagline: 'Oferencendo sempre o melhor serviço para os clientes!',  //slogan
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logooficina.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
