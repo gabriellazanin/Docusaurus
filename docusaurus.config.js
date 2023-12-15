@@ -30,7 +30,7 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'pt',
     locales: ['pt'],
   },
 
@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Sobre nós',
           },
-          {to: '/feedback', label: 'Feedback', position: 'left'},
+          {to: '/blog', label: 'Feedback', position: 'left'},
           {
             href: 'https://github.com/gabriellazanin/docusaurus',
             label: 'GitHub',
