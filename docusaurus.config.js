@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Oficina Mecânica, Lda.', //nome do trabalho
-  tagline: 'Oferencendo sempre o melhor serviço para os clientes!',  //slogan
+  title: 'Oficina Mecânica AutoMaster, Lda.', //nome do trabalho
+  tagline: 'Apostamos na qualidade dos nossos serviços!',  //slogan
   favicon: 'img/logooficina.png',
 
 
@@ -30,8 +30,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'pt',
-    locales: ['pt'],
+    defaultLocale: 'en',
+    locales: ['en','pt'],
   },
 
   presets: [
@@ -66,7 +66,7 @@ const config = {
       // Replace with your project's social card; ONDE AJUSTA A BARRA DE NAVEGAÇÃO
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'AutoMaster, Lda.',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logooficina.png',
@@ -74,11 +74,11 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'oficinaSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Sobre nós',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/feedback', label: 'Feedback', position: 'left'},
           {
             href: 'https://github.com/gabriellazanin/docusaurus',
             label: 'GitHub',
@@ -93,7 +93,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Sobre Nós',
                 to: '/docs/intro',
               },
             ],
@@ -119,8 +119,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Feedbacks',
+                to: '/feedback',
               },
               {
                 label: 'GitHub',
