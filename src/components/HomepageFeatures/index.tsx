@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Serviços de Mecânica',
-    Svg: require('@site/static/img/car.svg').default,
+    Svg: require('/static/img/car.svg').default,
     description: (
       <>
          Na nossa oficina, destacamos profissionalismo, fiabilidade e garantia. Priorizamos a conveniência, com agendamentos 
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Trocas e Reparos de Pneus',
-    Svg: require('@site/static/trocadepneu.svg').default,
+    Svg: require('/static/trocadepneu.svg').default,
     description: (
       <>
         Realizamos troca de pneus com eficiência e qualidade, garantindo a segurança do seu veículo. Conte conosco para 
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Pintura e Bate-chapas',
-    Svg: require('@site/static/img/tinta.svg').default,
+    Svg: require('/static/img/tinta.svg').default,
     description: (
       <>
         Oferecemos serviços especializados em reparação e pintura de carros, restaurando a estética e a integridade do seu veículo. 
