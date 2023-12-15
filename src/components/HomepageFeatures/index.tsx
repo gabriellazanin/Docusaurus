@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Serviços de Mecânica',
-    Svg: require('@site/static/img/mecanico.svg').default,
+    Svg: require('@site/static/img/mecanico.jpg').default,
     description: (
       <>
          Na nossa oficina, destacamos profissionalismo, fiabilidade e garantia. Priorizamos a conveniência, com agendamentos 
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Pintura e Bate-chapas',
-    Svg: require('@site/static/img/pintura.svg').default,
+    Svg: require('@site/static/img/pintura.png').default,
     description: (
       <>
         Oferecemos serviços especializados em reparação e pintura de carros, restaurando a estética e a integridade do seu veículo. 
