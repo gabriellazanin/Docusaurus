@@ -1,31 +1,25 @@
 ---
+
 sidebar_position: 5
+
 ---
 
-# Deploy your site
+ 
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+# Eletricidade
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+ 
 
-## Build your site
+### Na AutoMaster, especializamo-nos em serviços de mecânica, com destaque também para a **parte elétrica do seu carro.** A nossa equipa experiente está capacitada para diagnosticar e resolver eficientemente problemas elétricos, assegurando o desempenho confiável do seu veículo.
 
-Build your site **for production**:
+ 
 
-```bash
-npm run build
-```
+Desde a **identificação de falhas nos sistemas elétricos até à substituição de componentes**, trabalhamos de forma minuciosa para garantir a segurança e o correto funcionamento do seu automóvel. Para além disso, oferecemos soluções específicas para problemas elétricos em vidros, _realizando diagnósticos precisos e correções especializadas._ Se estiver a lidar com dificuldades nas janelas elétricas, **_a nossa equipa está preparada para resolver eficazmente esses problemas._**
 
-The static files are generated in the `build` folder.
+ 
 
-## Deploy your site
+E, quando se trata de **troca de bateria**, proporcionamos serviços de qualidade, desde a _seleção da bateria certa até à instalação cuidadosa._ Estamos comprometidos em **manter o sistema elétrico do seu carro em perfeitas condições**, garantindo que o veículo esteja equipado com uma fonte de energia confiável.
 
-Test your production build locally:
+ 
 
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+Na nossa oficina, a sua satisfação e a segurança do seu veículo são a nossa prioridade, oferecendo soluções profissionais e personalizadas que contribuem para a durabilidade e eficiência do seu automóvel!
