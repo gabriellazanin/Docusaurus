@@ -12,7 +12,7 @@ Nossa equipe experiente é especializada em **[pinturas e bate-chapas](https://g
 
 Contamos com o serviços de **[limpeza e higienização](https://gabriellazanin.github.io/Docusaurus/docs/tcogratulations/)**, tanto exterior quanto interior. Para mais informações, fale connosco para orçamentos e detalhes extras. 
 
-Além disso, somos especialistas nas **[troca de pneus](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/create-a-document)** e **[manutenção de travões](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/markdown-features)**, garantindo que você esteja sempre seguro na estrada. 
+Além disso, somos especialistas nas **[trocas de pneus](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/create-a-document)** e **[manutenção de travões](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/markdown-features)**, garantindo que você esteja sempre seguro na estrada. 
 
 Cuidamos da **[parte elétrica](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/deploy-your-site)** do seu carro, diagnosticando e resolvendo problemas de maneira eficiente para garantir um desempenho confiável.
 

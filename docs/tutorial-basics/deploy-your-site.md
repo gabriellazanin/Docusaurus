@@ -10,9 +10,9 @@ sidebar_position: 5
 
  
 
-### Na AutoMaster, especializamo-nos em serviços de mecânica, com destaque também para a **parte elétrica do seu carro.** A nossa equipa experiente está capacitada para diagnosticar e resolver eficientemente problemas elétricos, assegurando o desempenho confiável do seu veículo.
+## Na AutoMaster, especializamo-nos em serviços de mecânica, com destaque também para a **parte elétrica do seu carro.** 
 
- 
+A nossa equipa experiente está capacitada para diagnosticar e resolver eficientemente **problemas elétricos**, assegurando o desempenho confiável do seu veículo.
 
 Desde a **identificação de falhas nos sistemas elétricos até à substituição de componentes**, trabalhamos de forma minuciosa para garantir a segurança e o correto funcionamento do seu automóvel. Para além disso, oferecemos soluções específicas para problemas elétricos em vidros, _realizando diagnósticos precisos e correções especializadas._ Se estiver a lidar com dificuldades nas janelas elétricas, **_a nossa equipa está preparada para resolver eficazmente esses problemas._**
 
