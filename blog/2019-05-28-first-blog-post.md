@@ -1,7 +1,11 @@
 ---
 slug: first-blog-post
 title: 8 Melhores Dicas para Poupar Combustível
-authors: david
+authors: 
+  name: David Valente
+  title: Mechanical 
+  url: https://github.com/davydz4
+  image_url: https://github.com/davydz4.png
 tags: [dicas, combustível]
 ---
 
@@ -41,4 +45,3 @@ Com os preços da gasolina e do gasóleo acima dos dois euros por litro, todos e
    - Manter filtros limpos e níveis adequados de óleo e líquido de refrigeração pode economizar até 10%.
 
 Essas práticas podem contribuir significativamente para a poupança de combustível e para a eficiência do veículo.
-
