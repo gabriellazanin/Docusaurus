@@ -2,48 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# A AutoMaster, Lda.
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Bem-vindo à nossa oficina mecânica! 
 
-## Getting Started
+Aqui cuidamos do seu veículo com uma **abordagem amigável, profissional e acessível.** Oferecemos uma gama completa de serviços para manter seu carro em *excelente* condição.
 
-Get started by **creating a new site**.
+Nossa equipe experiente é especializada em **[pinturas e bate-chapas](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/create-a-blog-post)**, restaurando a beleza do seu veículo após pequenos ou grandes danos. A pintura é realizada com maestria, garantindo um acabamento _impecávelque se destaca pela durabilidade e brilho._
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Além disso, somos especialistas na **[troca de pneus](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/create-a-document)**, garantindo que você esteja sempre seguro na estrada. 
 
-### What you'll need
+Cuidamos da [parte elétrica](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/deploy-your-site) do seu carro, diagnosticando e resolvendo problemas de maneira eficiente para garantir um desempenho confiável.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Oferecemos também **[revisões completas](https://gabriellazanin.github.io/Docusaurus/docs/tutorial-basics/create-a-page)**, cuidando de todos os aspectos do seu veículo para prevenir problemas e prolongar sua vida útil. Tudo isso é feito com um _toque amigável_, garantindo que nossos clientes sintam-se **confortáveis e confiantes** em cada visita.
 
-## Generate a new site
+Na nossa oficina, acreditamos que a **qualidade dos serviços não precisa ser acompanhada por preços exorbitantes.** Nosso compromisso é fornecer soluções acessíveis, mantendo a integridade do seu veículo e sua satisfação em primeiro plano. 
 
-Generate a new Docusaurus site using the **classic template**.
+### Confie em nós para cuidar do seu carro como se fosse nosso! 
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
-
-
+**_Faça já seu orçamento connosco!_**

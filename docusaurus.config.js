@@ -76,9 +76,9 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Sobre nós',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Feedback', position: 'left'},
           {
             href: 'https://github.com/gabriellazanin/docusaurus',
             label: 'GitHub',
@@ -120,7 +120,7 @@ const config = {
             items: [
               {
                 label: 'Feedbacks',
-                to: '/feedback',
+                to: '/blog',
               },
               {
                 label: 'GitHub',
