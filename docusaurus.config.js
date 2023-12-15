@@ -78,7 +78,7 @@ const config = {
             position: 'left',
             label: 'Sobre nós',
           },
-          {to: '/blog', label: 'Feedback', position: 'left'},
+          {to: '/blog', label: 'Dicas e Conselhos', position: 'left'},
           {
             href: 'https://github.com/gabriellazanin/docusaurus',
             label: 'GitHub',
@@ -119,7 +119,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Feedbacks',
+                label: 'Dicas e Conselhos',
                 to: '/blog',
               },
               {
