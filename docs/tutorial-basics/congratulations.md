@@ -1,31 +1,31 @@
 ---
+
 sidebar_position: 6
----
 
-# Congratulations!
+---  
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+ 
 
-Docusaurus has **much more to offer**!
+# Limpeza e Higienização
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+ 
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+ 
 
-Here's a demo on how to add a table:
+Oferecemos um **serviço abrangente de limpeza e higienização veicular**, cuidando tanto do _interior quanto do exterior do seu veículo_. A nossa equipa especializada utiliza **técnicas e produtos de alta qualidade** para devolver ao seu carro o brilho e frescor originais.
 
-|Header      |Header         |Header   |
-|------------|---------------|---------|
-|Content     |Content        |Content  |
-|Content     |`Code content` |*Italic*  |
-|Content     |Content        |Content  |
+ 
 
-## What's next?
+No que diz respeito ao interior, realizamos uma limpeza profunda, removendo sujidades, odores indesejados e garantindo um ambiente interno agradável. Dos estofados ao painel, **cada detalhe é tratado com precisão.**
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+ 
+
+Quando ao exterior, proporcionamos uma lavagem minuciosa, removendo impurezas e revitalizando a pintura. **Polimento e proteção adicional são incluídos para garantir um acabamento reluzente e duradouro.**
+
+ 
+
+### Confie-nos o seu veículo para um serviço de limpeza e higienização que vai além do visual, promovendo um ambiente acolhedor e preservando a estética e valor do seu automóvel.
+
+ 
+
+**A excelência no cuidado do seu veículo é a nossa prioridade!  
