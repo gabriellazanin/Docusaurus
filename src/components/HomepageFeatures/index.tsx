@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Trocas e Reparos de Pneus',
-    Svg: require('static/img/logo.svg').default,
+    Svg: require('static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Realizamos troca de pneus com eficiência e qualidade, garantindo a segurança do seu veículo. Conte conosco para 
