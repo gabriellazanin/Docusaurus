@@ -23,9 +23,10 @@ Deve trocar os pneus **a cada 40.000 kms ou a cada 5 anos*, consoante o que acon
 - desgaste muito acentuado no centro ou no ombro do pneu (a zona que está em contacto com o piso)
 
 
+
 :::tip Atenção
 
-Se os pneus do seu veículo apresentarem alguns sinais que descrevemos, deve pelo menos levar o carro a uma oficina para verificação. 
+Se os pneus do seu veículo apresentarem alguns sinais que descrevemos, deve levar o carro a uma oficina para verificação. 
 
 :::
 

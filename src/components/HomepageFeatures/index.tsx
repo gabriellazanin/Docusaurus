@@ -10,32 +10,34 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Serviços de Mecânica',
+    Svg: require('@site/static/img/mecanico.jpg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+         Na nossa oficina, destacamos profissionalismo, fiabilidade e garantia. Priorizamos a conveniência, com agendamentos 
+         flexíveis, e garantimos rapidez sem comprometer a qualidade. Oferecemos serviços de alta qualidade a 
+         preços justos, assegurando satisfação em cada visita.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Trocas e Reparos de Pneus',
+    Svg: require('@site/static/img/trocapneus.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Realizamos troca de pneus com eficiência e qualidade, garantindo a segurança do seu veículo. Conte conosco para 
+        um serviço rápido e profissional que atenda às suas necessidades de manutenção automotiva, 
+        proporcionando uma condução tranquila e confiável.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Pintura e Bate-chapas',
+    Svg: require('@site/static/img/pintura.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Oferecemos serviços especializados em reparação e pintura de carros, restaurando a estética e a integridade do seu veículo. 
+        Nossa equipe qualificada está pronta para proporcionar resultados excepcionais, devolvendo-lhe um carro renovado e com acabamento impecável.
       </>
     ),
   },
