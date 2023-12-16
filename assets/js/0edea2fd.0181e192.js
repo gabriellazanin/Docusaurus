@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[3798],{6594:s=>{s.exports=JSON.parse('{"label":"curiosidade","permalink":"/Docusaurus/blog/tags/curiosidade","allTagsPath":"/Docusaurus/blog/tags","count":1}')}}]);
