@@ -6,6 +6,8 @@ sidebar_position: 2
 
 ## Encontre aqui os Pneus ideais para o seu automóvel! 
 
+![Pneus](./img/pneus.jpg)
+
 ## _Quando mudar os pneus?_
 
 Deve trocar os pneus **a cada 40.000 kms ou a cada 5 anos*, consoante o que acontecer primeiro. Contudo, há algumas excessões à regra. Fique atento aos seguintes sinais para saber se já está na altura certa para trocar por pneus novos: 
