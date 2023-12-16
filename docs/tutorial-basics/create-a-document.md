@@ -26,7 +26,7 @@ Deve trocar os pneus **a cada 40.000 kms ou a cada 5 anos*, consoante o que acon
 
 
 
-:::tip Atenção
+:::caution Atenção
 
 Se os pneus do seu veículo apresentarem alguns sinais que descrevemos, deve levar o carro a uma oficina para verificação. 
 
