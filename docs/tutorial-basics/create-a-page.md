@@ -6,7 +6,7 @@ sidebar_position: 1
 
 A nossa oficina conta com uma equipe _especializada e apta_ para encontrar soluções de manutenção adaptadas às suas necessidades e às do seu carro. O serviço de _Revisão AutoMaster_ tem sempre em consideração as **características do seu veículo**, nomeadamente os **dados técnicos, quilometragem, idade e tipo de utilização**.
 
-![Revisao](./static/img/revisao.jpg)
+![Revisao](./img/revisao.jpg)
 
 
 Contamos com duas opções diferentes, mas sempre com a mesma garantia: 
