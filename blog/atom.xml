@@ -25,14 +25,17 @@
         <category label="dicas" term="dicas"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[outono]]></title>
-        <id>https://github.com/Docusaurus/blog/2023/12/10/2023-12-10-outono/outono</id>
-        <link href="https://github.com/Docusaurus/blog/2023/12/10/2023-12-10-outono/outono"/>
+        <title type="html"><![CDATA[5 Dicas para Preparar o Carro para o Outono]]></title>
+        <id>https://github.com/Docusaurus/blog/outono</id>
+        <link href="https://github.com/Docusaurus/blog/outono"/>
         <updated>2023-12-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[---]]></summary>
-        <content type="html"><![CDATA[<hr><p>slug: outono
-title: 5 Dicas para Preparar o Carro para o Outono
-authors: david</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="tags-dica">tags: <!-- -->[dica]<a href="#tags-dica" class="hash-link" aria-label="Link direto para tags-dica" title="Link direto para tags-dica">​</a></h2><p>A mudança de estação é sempre uma altura crucial para cuidar do seu carro, e por isso, a AutoMaster preparou um conjunto de dicas e conselhos para preparar o seu carro para este outono!</p><p><img loading="lazy" alt="Outono" src="/Docusaurus/assets/images/outono-8b1fa5fef7a154ce6d54109d13ba2f69.jpg" width="996" height="430" class="img_ev3q"></p><ol><li><p><strong>VERIFIQUE A PRESSÃO DOS PNEUS</strong></p><ul><li>Mantenha a pressão adequada para garantir segurança e prolongar a vida dos pneus.</li></ul></li><li><p><strong>ATENÇÃO AOS LÍQUIDOS</strong></p><ul><li>Verifique óleo do motor, líquido de refrigeração, líquido limpa para-brisas e óleo dos travões para enfrentar as mudanças de temperatura.</li></ul></li><li><p><strong>MANUTENÇÃO DA VISÃO</strong></p><ul><li>Certifique-se de que lâmpadas e escovas limpa para-brisas estão em bom estado para garantir a visibilidade.</li></ul></li><li><p><strong>CUIDADOS COM A BATERIA:</strong></p><ul><li>Faça um diagnóstico da bateria, carregue ou substitua, especialmente se ela for antiga.</li></ul></li><li><p><strong>REVISÃO OFICIAL E SERVIÇOS PARA VEÍCULOS ELÉTRICOS:</strong></p><ul><li>Agende a revisão oficial, verificando até 70 pontos de controlo, e aproveite os serviços especializados para veículos elétricos, incluindo instalação de estações de carregamento elétrico em breve.</li></ul></li></ol><p>A <strong>AutoMaster</strong> deseja-lhe um outono sobre rodas em segurança!</p>]]></content>
+        <summary type="html"><![CDATA[A mudança de estação é sempre uma altura crucial para cuidar do seu carro, e por isso, a AutoMaster preparou um conjunto de dicas e conselhos para preparar o seu carro para este outono!]]></summary>
+        <content type="html"><![CDATA[<p>A mudança de estação é sempre uma altura crucial para cuidar do seu carro, e por isso, a AutoMaster preparou um conjunto de dicas e conselhos para preparar o seu carro para este outono!</p><p><img loading="lazy" alt="Outono" src="/Docusaurus/assets/images/outono-8b1fa5fef7a154ce6d54109d13ba2f69.jpg" width="996" height="430" class="img_ev3q"></p><ol><li><p><strong>VERIFIQUE A PRESSÃO DOS PNEUS</strong></p><ul><li>Mantenha a pressão adequada para garantir segurança e prolongar a vida dos pneus.</li></ul></li><li><p><strong>ATENÇÃO AOS LÍQUIDOS</strong></p><ul><li>Verifique óleo do motor, líquido de refrigeração, líquido limpa para-brisas e óleo dos travões para enfrentar as mudanças de temperatura.</li></ul></li><li><p><strong>MANUTENÇÃO DA VISÃO</strong></p><ul><li>Certifique-se de que lâmpadas e escovas limpa para-brisas estão em bom estado para garantir a visibilidade.</li></ul></li><li><p><strong>CUIDADOS COM A BATERIA:</strong></p><ul><li>Faça um diagnóstico da bateria, carregue ou substitua, especialmente se ela for antiga.</li></ul></li><li><p><strong>REVISÃO OFICIAL E SERVIÇOS PARA VEÍCULOS ELÉTRICOS:</strong></p><ul><li>Agende a revisão oficial, verificando até 70 pontos de controlo, e aproveite os serviços especializados para veículos elétricos, incluindo instalação de estações de carregamento elétrico em breve.</li></ul></li></ol><p>A <strong>AutoMaster</strong> deseja-lhe um outono sobre rodas em segurança!</p>]]></content>
+        <author>
+            <name>David Valente</name>
+            <uri>https://github.com/davydz4</uri>
+        </author>
+        <category label="dica" term="dica"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ascensão dos Carros Elétricos em Portugal]]></title>
