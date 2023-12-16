@@ -4,11 +4,11 @@ sidebar_position: 5
 
 ---
 
- 
 
 # Eletricidade
 
- 
+![Bateria](./img/bateria.jpg)
+
 
 ## Na AutoMaster, especializamo-nos em serviços de mecânica, com destaque também para a **parte elétrica do seu carro.** 
 
