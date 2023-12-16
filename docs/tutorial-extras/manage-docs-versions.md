@@ -3,15 +3,15 @@ sidebar_position: 1
 ---
 
 # CONTACTOS 
-Entre em contacto com os nosso sserviços
+Entre em contacto com os nosso serviços
 
 ### SEDE - FARO 
 
-**Endereço:** University of the Algarve, Estr. da Penha, 8005-139 Faro
+**Endereço:** 📍 University of the Algarve, Estr. da Penha, 8005-139 Faro
 
-**Telefone:** 289 800 124
+**Telefone:** 📞 289 800 124
 
-**E-mail:** automaster@gmail.com
+**E-mail:** 📧 automaster@gmail.com
 
 
 
