@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Pintura e Bate-chapas',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/tinta.svg').default,
     description: (
       <>
         Oferecemos serviços especializados em reparação e pintura de carros, restaurando a estética e a integridade do seu veículo. 
