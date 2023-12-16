@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Serviços de Mecânica',
-    Svg: require('.../static/img/trocadepneu.svg').default,
+    Svg: require('.../static/img/car-solid.svg').default,
     description: (
       <>
          Na nossa oficina, destacamos profissionalismo, fiabilidade e garantia. Priorizamos a conveniência, com agendamentos 
