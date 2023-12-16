@@ -102,8 +102,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Fale Connosco',
+                href: 'https://gabriellazanin.github.io/Docusaurus/docs/category/fale-connosco',
               },
               {
                 label: 'Discord',
