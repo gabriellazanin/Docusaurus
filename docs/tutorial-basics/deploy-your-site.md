@@ -7,10 +7,10 @@ sidebar_position: 5
 
 # Eletricidade
 
-![Bateria](./img/bateria.jpg)
-
 
 ## Na AutoMaster, especializamo-nos em serviços de mecânica, com destaque também para a **parte elétrica do seu carro.** 
+
+![Bateria](./img/bateria.jpg)
 
 A nossa equipa experiente está capacitada para diagnosticar e resolver eficientemente **problemas elétricos**, assegurando o desempenho confiável do seu veículo.
 
