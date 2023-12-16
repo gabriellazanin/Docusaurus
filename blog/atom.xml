@@ -37,4 +37,18 @@
         </author>
         <category label="dica" term="dica"/>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[Ascensão dos Carros Elétricos em Portugal]]></title>
+        <id>https://github.com/Docusaurus/blog/eletrico</id>
+        <link href="https://github.com/Docusaurus/blog/eletrico"/>
+        <updated>2023-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Texto]]></summary>
+        <content type="html"><![CDATA[<p>Texto</p>]]></content>
+        <author>
+            <name>David Valente</name>
+            <uri>https://github.com/davydz4</uri>
+        </author>
+        <category label="curiosidade" term="curiosidade"/>
+        <category label="eletrico" term="eletrico"/>
+    </entry>
 </feed>

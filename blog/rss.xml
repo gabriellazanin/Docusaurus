@@ -26,5 +26,15 @@
             <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
             <category>dica</category>
         </item>
+        <item>
+            <title><![CDATA[Ascensão dos Carros Elétricos em Portugal]]></title>
+            <link>https://github.com/Docusaurus/blog/eletrico</link>
+            <guid>https://github.com/Docusaurus/blog/eletrico</guid>
+            <pubDate>Tue, 10 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Texto]]></description>
+            <content:encoded><![CDATA[<p>Texto</p>]]></content:encoded>
+            <category>curiosidade</category>
+            <category>eletrico</category>
+        </item>
     </channel>
 </rss>

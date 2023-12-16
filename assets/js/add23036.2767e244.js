@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[9400],{9416:s=>{s.exports=JSON.parse('{"label":"eletrico","permalink":"/Docusaurus/blog/tags/eletrico","allTagsPath":"/Docusaurus/blog/tags","count":1}')}}]);
